@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+    <string name="sum">+</string>
+    <string name="sub">-</string>
+    <string name="div">÷</string>
+    <string name="mul">×</string>
+    <string name="clear">C</string>
+    <string name="sign">±</string>
+    <string name="percent">%</string>
+
+    <string name="memory_clear">MC</string>
+    <string name="memori_plus">M+</string>
+    <string name="memory_minus">M-</string>
+    <string name="memory_restore">MR</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="arcsin">sin¯¹</string>
+    <string name="arccos">cos¯¹</string>
+    <string name="arctan">tan¯¹</string>
+    <string name="pi">π</string>
+    <string name="exp">e</string>
+    <string name="pow">xⁿ</string>
+    <string name="sqr">x²</string>
+    <string name="inv">x¯¹</string>
+    <string name="log_dec">lg</string>
+    <string name="log_e">ln</string>
+    <string name="log_two">log₂</string>
+    <string name="factorial">x!</string>
+    <string name="sqr_root">√x</string>
+
+    <string name="division_by_zero_message">Division by zero is impossible</string>
+</resources>
